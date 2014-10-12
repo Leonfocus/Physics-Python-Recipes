@@ -9,7 +9,7 @@ Data processing like fitting, interpolation, differential, spectrum analysis and
 
 Visualization contains not only plot skills to display experimental dataset, but also codes for generating simple demonstration of some physical phenomena and process, such as double pendulum. The interactive plotting recipes, that is, display in browser using Ipython Notebook or other JS binding techniques, should be added.
 
-Also I decide to add an extra file for other things, which may be suitable for this repository.
+Also I decide to add an extra file for other things, which seems suitable for this repository.
 
 
     Physics-Python-Recipes
